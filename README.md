@@ -1,10 +1,14 @@
 # Creative Brief: CSS-Animations
 
-This document serves to explain why I created files showcasing  CSS-Animations. Additionally it is my goal to help recruiters get an idea of how I like to exercise my creativity. 
+"Even though I worked hard at times, it was always magical. I have to confess I enjoued every minute of it. Even the down times I enjoyed, because we were creating something that would make people smile and lift their hearts. You cant think of a better job than that." - Floyd Norman
 
-## Getting Started
+# Project Summary
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This document serves to explain why I created files showcasing  CSS-Animations. It is my goal to help recruiters and/or employers get an idea of how I like to exercise my creativity. 
+
+## Project Objective
+
+This project was created with the help of Val Head, Design Evangelist at Adobe and author of Designing Interface Animation. I felt I needed to take this course in order to grow my understanding of how to use CSS. The project is simply HTML and CSS files that can be cloned or downloaded to your local computer in order to see animations I created. Most importantly, this project will give recruiters an understanding that the skills I developed in this project will help simplify the handoff to the development team. 
 
 ### Prerequisites
 
