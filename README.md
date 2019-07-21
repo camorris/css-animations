@@ -10,13 +10,9 @@ This document serves to explain why I created files showcasing  CSS-Animations. 
 
 This project was created with the help of Val Head, Design Evangelist at Adobe and author of Designing Interface Animation. I felt I needed to take this course in order to grow my understanding of how to use CSS. The project is simply HTML and CSS files that can be cloned or downloaded to your local computer in order to see animations I created. Most importantly, this project will give recruiters an understanding that the skills I developed in this project will help simplify the handoff to the development team. 
 
-### Prerequisites
+### Targeted Audience
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+For the purpose of working with a company I am targeting those individuals with the title Recruiter, Hiring Manager, and/or Founder.
 
 ### Installing
 
