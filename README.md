@@ -12,17 +12,7 @@ This project was created with the help of Val Head, Design Evangelist at Adobe a
 
 ### Targeted Audience
 
-For the purpose of working with a company I am targeting those individuals with the title Recruiter, Hiring Manager, and/or Founder.
-
-### Installing
-
-
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+For the purpose of working with a company I am targeting those individuals¿¿
 
 ### Break down into end to end tests
 
